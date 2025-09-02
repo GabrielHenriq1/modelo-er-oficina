@@ -1,4 +1,5 @@
-🚗 #Sistema de Ordem de Serviço – Oficina Mecânica
+#  Sistema de Ordem de Serviço – Oficina Mecânica
+
 📌 Sobre o projeto
 
 Modelo de banco de dados relacional desenvolvido no MySQL Workbench, representando o funcionamento de uma oficina mecânica.
